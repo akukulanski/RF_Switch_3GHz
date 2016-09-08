@@ -1,0 +1,11 @@
+Datos de la placa:
+
+Placa Roger RO4350B:
+*	Dielectric Constant, Design = 3.66
+*	Espesor del dieléctrico 	= 0.030” (0.762mm)
+* 	Espesor del cobre			= el efececto en W es casi nulo(en qucs cambia en centésimas de mm el W de la pista)
+
+
+W = 1.63443mm 		[@ 1Ghz ; qucs ; Z0=50ohm]
+
+
