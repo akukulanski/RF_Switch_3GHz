@@ -1,0 +1,40 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+CN4        CON3                   21.5mm         2.5mm        21.5mm         2.5mm       18.96mm         2.5mm  T        360.00 CON4           
+R5         R_0603                   15mm        8.25mm          15mm        8.25mm          15mm         9.1mm  T         90.00 680O           
+R6         R_0603                26.25mm        8.25mm       26.25mm        8.25mm       26.25mm         7.4mm  T        270.00 680O           
+R4         R_0603                 20.5mm          10mm        20.5mm          10mm        20.5mm        9.15mm  T        270.00 680O           
+L9         L_0603                28.25mm        8.25mm       28.25mm        8.25mm       28.25mm         7.4mm  T        360.00 470nH          
+L8         L_0603                   17mm        8.25mm          17mm        8.25mm          17mm         7.4mm  T          0.00 470nH          
+L7         L_0603                 22.5mm          10mm        22.5mm          10mm        22.5mm        9.15mm  T        360.00 470nH          
+L6         L_0603                26.25mm       11.75mm       26.25mm       11.75mm       26.25mm        10.9mm  T          0.00 22nH           
+L5         L_0603                   17mm       11.75mm          17mm       11.75mm          17mm        10.9mm  T        360.00 22nH           
+L1         L_0603                20.25mm          20mm       20.25mm          20mm        21.1mm          20mm  T         90.00 22nH           
+CN1        SMA                    21.5mm       27.35mm        21.5mm       27.25mm      24.325mm       27.25mm  T        180.00 CON5           
+L2         L_0603                 22.5mm        13.5mm        22.5mm        13.5mm        22.5mm       12.65mm  T        360.00 22nH           
+C4         C_0603                 20.6mm          17mm        20.6mm          17mm        20.6mm       17.85mm  T         90.00 10pF           
+C3         C_0603                 22.5mm       22.75mm        22.5mm       22.75mm        22.5mm        23.6mm  T         90.00 10pF           
+C2         C_0603                 22.6mm          17mm        22.6mm          17mm        22.6mm       17.85mm  T         90.00 10pF           
+C1         C_0603                 20.5mm       22.75mm        20.5mm       22.75mm        20.5mm        23.6mm  T         90.00 10pF           
+D2         SC79                  18.25mm        15.5mm       18.25mm        15.5mm      18.925mm        15.5mm  T        180.00 Diodo          
+R1         R_0603                 20.5mm        13.5mm        20.5mm        13.5mm        20.5mm       12.65mm  T        270.00 1800O          
+C5         C_0603                13.25mm        16.5mm       13.25mm        16.5mm        12.4mm        16.5mm  T        180.00 10pF           
+C6         C_0603                 7.75mm        14.5mm        7.75mm        14.5mm         6.9mm        14.5mm  T        180.00 10pF           
+C7         C_0603                   30mm        14.5mm          30mm        14.5mm       30.85mm        14.5mm  T          0.00 10pF           
+C8         C_0603                 35.5mm        16.5mm        35.5mm        16.5mm       36.35mm        16.5mm  T          0.00 10pF           
+C9         C_0603                 7.75mm        16.5mm        7.75mm        16.5mm         6.9mm        16.5mm  T        180.00 10pF           
+C10        C_0603                13.25mm        14.5mm       13.25mm        14.5mm        12.4mm        14.5mm  T        180.00 10pF           
+C11        C_0603                   30mm        16.5mm          30mm        16.5mm       30.85mm        16.5mm  T          0.00 10pF           
+C12        C_0603                 35.5mm        14.5mm        35.5mm        14.5mm       36.35mm        14.5mm  T        360.00 10pF           
+C13        C_0603                17.25mm         5.5mm       17.25mm         5.5mm        16.4mm         5.5mm  T        180.00 10pF           
+C14        C_0603                25.75mm         5.5mm       25.75mm         5.5mm        26.6mm         5.5mm  T        360.00 10pF           
+CN2        SMA                    3.15mm        15.5mm        3.25mm        15.5mm        3.25mm      18.325mm  T        270.00 CON5           
+CN3        SMA                   40.35mm        15.5mm       40.25mm        15.5mm       40.25mm      12.675mm  T         90.00 CON5           
+D1         SC79                     25mm        15.5mm          25mm        15.5mm      24.325mm        15.5mm  T          0.00 Diodo          
+D3         SC79                     16mm          17mm          16mm          17mm          16mm      16.325mm  T         90.00 Diodo          
+D4         SC79                  27.25mm          17mm       27.25mm          17mm       27.25mm      16.325mm  T         90.00 Diodo          
+L3         L_0603                 10.5mm       16.75mm        10.5mm       16.75mm        10.5mm        15.9mm  T        360.00 22nH           
+L4         L_0603                32.75mm       16.75mm       32.75mm       16.75mm       32.75mm        15.9mm  T          0.00 22nH           
+R2         R_0603                   15mm       11.75mm          15mm       11.75mm          15mm        12.6mm  T         90.00 1800O          
+R3         R_0603                28.25mm       11.75mm       28.25mm       11.75mm       28.25mm        10.9mm  T        270.00 1800O          
+
